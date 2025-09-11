@@ -9,4 +9,4 @@
 - [6. Docker Compose](06%20Docker/6.%20Docker%20Compose.md)
 
 **07 CI/CD + Gitlab**
-- [1. ](07%20CI/CD%20+%20Gitlab/.md)
+- [1. Что такое DevOps?](07%20CI/CD%20+%20Gitlab/1.%20Что%20такое%20DevOps?.md)
